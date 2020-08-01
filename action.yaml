@@ -1,0 +1,5 @@
+name: 'nodejs-tests'
+description: ''
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
